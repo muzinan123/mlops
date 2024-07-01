@@ -1,4 +1,27 @@
-# mlops
+# MLOps Platform 
+
+## Overview
+This project is a Python-based MLOps platform built using Kubeflow. It provides a comprehensive solution for developing, deploying, and managing machine learning models, supporting the entire lifecycle from data processing to model monitoring.
+
+## Features
+- Data processing and feature engineering
+- Model training and evaluation
+- Model version management
+- Model deployment and serving
+- Real-time monitoring and logging
+- Automated workflows and CI/CD integration with Kubeflow Pipelines
+
+## Tech Stack
+- Programming Language: Python
+- Machine Learning Frameworks: TensorFlow, PyTorch, Scikit-Learn
+- Database: MySQL/PostgreSQL/Other
+- Message Queue: Kafka/RabbitMQ
+- Cache: Redis
+- Containerization: Docker
+- Orchestration: Kubernetes
+- MLOps Platform: Kubeflow
+- Continuous Integration/Continuous Deployment: Jenkins/GitLab CI/Other
+- Observability: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
 
 # Infra
 Currently mainly includes the following functions
